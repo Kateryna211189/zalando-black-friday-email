@@ -1,0 +1,230 @@
+<mjml>
+  <mj-head>
+    <mj-title>Zalando Black Friday Capsule</mj-title>
+    <mj-preview>🔥 Black Friday : Vos pièces signatures jusqu'à -70%</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" color="#111111" />
+      <mj-text font-size="13px" line-height="18px" />
+      <mj-section background-color="#ffffff" padding="0" />
+    </mj-attributes>
+    <mj-style>
+      .nav-tab {
+        color: #111111 !important;
+        text-decoration: none !important;
+        font-weight: 700 !important;
+        font-size: 11px !important;
+        letter-spacing: 1.5px !important;
+        padding: 6px 12px !important;
+        display: inline-block !important;
+      }
+      .nav-bf {
+        background-color: #111111 !important;
+        color: #ffffff !important;
+        padding: 6px 12px !important;
+        font-weight: 800 !important;
+        font-size: 11px !important;
+        letter-spacing: 1.5px !important;
+        text-decoration: none !important;
+        display: inline-block !important;
+      }
+      .promo-badge {
+        background-color: #ff6900;
+        color: #ffffff;
+        font-weight: 800;
+        font-size: 10px;
+        padding: 2px 5px;
+        letter-spacing: 0.5px;
+        border-radius: 1px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f0f0">
+
+    <!-- Pre-header fin -->
+    <mj-section background-color="#f0f0f0" padding="10px 0">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#777777">
+          Black Friday Zalando • Livraison et retours gratuits • <a href="#" style="color: #111111; text-decoration: underline;">Version en ligne</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Header officiel : Logo Zalando -->
+    <mj-section background-color="#ffffff" padding="22px 0 12px 0">
+      <mj-column>
+        <mj-text align="center" font-size="30px" font-weight="900" letter-spacing="3px" color="#111111" padding-bottom="12px">
+          zalando<span style="color: #ff6900;">.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Навигация: Стилизованные вкладки FEMME / HOMME / ENFANT / BLACK FRIDAY -->
+    <mj-section background-color="#ffffff" padding="0 10px 16px 10px">
+      <mj-column>
+        <mj-text align="center" padding="0">
+          <a href="#" class="nav-tab">FEMME</a>
+          <a href="#" class="nav-tab">HOMME</a>
+          <a href="#" class="nav-tab">ENFANT</a>
+          <a href="#" class="nav-bf"><span style="color: #ff6900;">●</span> BLACK FRIDAY</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Bandeau Flash Black Friday -->
+    <mj-section background-color="#111111" padding="11px 15px">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="800" letter-spacing="1.5px" color="#ffffff">
+          ACCÈS PRIVILÈGE • JUSQU'À <span style="color: #ff6900;">-70%</span> SUR LE CATALOGUE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Image Éditoriale -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-image src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1200&auto=format&fit=crop&q=80" alt="Zalando Black Friday Editorial" padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero Call to Action -->
+    <mj-section background-color="#ffffff" padding="30px 20px 25px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="11px" font-weight="900" letter-spacing="2.5px" color="#ff6900">
+          L'ÉVÉNEMENT MODE DE L'ANNÉE
+        </mj-text>
+        <mj-text align="center" font-size="28px" font-weight="900" line-height="34px" letter-spacing="1px" color="#111111" padding-top="6px">
+          LE STYLE PREND LE DESSUS.
+        </mj-text>
+        <mj-text align="center" font-size="14px" line-height="22px" color="#555555" padding="4px 20px 20px 20px">
+          Des manteaux structurés aux sneakers culte : explorez les pièces les plus convoitées à prix irrésistibles.
+        </mj-text>
+        <mj-button background-color="#111111" color="#ffffff" font-size="12px" font-weight="800" letter-spacing="1.5px" border-radius="0px" inner-padding="16px 36px" href="#">
+          PROFITER DES OFFRES
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Titre de la vitrine symétrique -->
+    <mj-section background-color="#f8f8f8" padding="30px 20px 10px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="16px" font-weight="900" letter-spacing="1.5px" color="#111111">
+          SÉLECTION EXCLUSIVE • FEMME & HOMME
+        </mj-text>
+        <mj-text align="center" font-size="12px" color="#777777" padding-top="2px">
+          Tailles et stocks limités pendant l'opération
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ДВЕ ИДЕАЛЬНО ОДИНАКОВЫЕ КАРТОЧКИ (50/50) -->
+    <mj-section background-color="#f8f8f8" padding="10px 15px 25px 15px">
+      
+      <!-- Карточка 1: Женское -->
+      <mj-column width="50%" padding="8px">
+        <mj-section background-color="#ffffff" border="1px solid #e5e5e5" padding="0">
+          <mj-column width="100%">
+            <mj-image src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&h=750&auto=format&fit=crop&q=80" alt="Manteau Trench Femme" padding="0" />
+            <mj-text align="left" font-size="11px" font-weight="800" letter-spacing="1px" color="#888888" padding="14px 14px 2px 14px">
+              MANGO
+            </mj-text>
+            <mj-text align="left" font-size="13px" font-weight="700" color="#111111" padding="0 14px 6px 14px">
+              Trench long ceinturé
+            </mj-text>
+            <mj-text align="left" padding="0 14px 14px 14px">
+              <span style="text-decoration: line-through; color: #999999; font-size: 12px;">119,99 €</span>
+              <strong style="color: #ff6900; font-size: 15px; margin-left: 6px;">59,99 €</strong>
+              <span class="promo-badge" style="margin-left: 6px;">-50%</span>
+            </mj-text>
+            <mj-button background-color="#ffffff" color="#111111" border="1px solid #111111" font-size="11px" font-weight="800" letter-spacing="1px" border-radius="0px" inner-padding="10px 14px" width="85%" padding-bottom="16px" href="#">
+              VOIR LE PRODUIT
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+
+      <!-- Карточка 2: Мужское -->
+      <mj-column width="50%" padding="8px">
+        <mj-section background-color="#ffffff" border="1px solid #e5e5e5" padding="0">
+          <mj-column width="100%">
+            <mj-image src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&h=750&auto=format&fit=crop&q=80" alt="Veste Blazer Homme" padding="0" />
+            <mj-text align="left" font-size="11px" font-weight="800" letter-spacing="1px" color="#888888" padding="14px 14px 2px 14px">
+              SELECTED HOMME
+            </mj-text>
+            <mj-text align="left" font-size="13px" font-weight="700" color="#111111" padding="0 14px 6px 14px">
+              Veste de costume structurée
+            </mj-text>
+            <mj-text align="left" padding="0 14px 14px 14px">
+              <span style="text-decoration: line-through; color: #999999; font-size: 12px;">149,99 €</span>
+              <strong style="color: #ff6900; font-size: 15px; margin-left: 6px;">74,99 €</strong>
+              <span class="promo-badge" style="margin-left: 6px;">-50%</span>
+            </mj-text>
+            <mj-button background-color="#ffffff" color="#111111" border="1px solid #111111" font-size="11px" font-weight="800" letter-spacing="1px" border-radius="0px" inner-padding="10px 14px" width="85%" padding-bottom="16px" href="#">
+              VOIR LE PRODUIT
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+
+    </mj-section>
+
+    <!-- Services Zalando -->
+    <mj-section background-color="#ffffff" border-top="1px solid #eeeeee" border-bottom="1px solid #eeeeee" padding="24px 15px">
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="12px" font-weight="800" color="#111111">
+          LIVRAISON OFFERTE
+        </mj-text>
+        <mj-text align="center" font-size="11px" color="#777777" padding-top="2px">
+          Dès 29,90 € d'achat
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="12px" font-weight="800" color="#111111">
+          100 JOURS
+        </mj-text>
+        <mj-text align="center" font-size="11px" color="#777777" padding-top="2px">
+          Retours 100% gratuits
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-size="12px" font-weight="800" color="#111111">
+          ESSAYEZ D'ABORD
+        </mj-text>
+        <mj-text align="center" font-size="11px" color="#777777" padding-top="2px">
+          Réglez sous 30 jours
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer с брендовыми цветами соцсетей -->
+    <mj-section background-color="#ffffff" padding="30px 20px 20px 20px">
+      <mj-column>
+        <mj-social font-size="12px" icon-size="22px" mode="horizontal" padding-bottom="20px">
+          <!-- Instagram: фирменный малиновый #E1306C -->
+          <mj-social-element name="instagram" href="#" background-color="#E1306C" padding="0 8px">
+            Instagram
+          </mj-social-element>
+          <!-- Facebook: фирменный синий #1877F2 -->
+          <mj-social-element name="facebook" href="#" background-color="#1877F2" padding="0 8px">
+            Facebook
+          </mj-social-element>
+          <!-- Pinterest: фирменный красный #E60023 -->
+          <mj-social-element name="pinterest" href="#" background-color="#E60023" padding="0 8px">
+            Pinterest
+          </mj-social-element>
+        </mj-social>
+        
+        <mj-text align="center" font-size="11px" color="#888888" line-height="16px">
+          Zalando SE • Tamara-Danz-Straße 1, 10243 Berlin<br />
+          Offres valables dans la limite des stocks disponibles jusqu'au 30/11.
+        </mj-text>
+        
+        <mj-text align="center" font-size="11px" color="#888888" padding-top="10px">
+          <a href="#" style="color: #444444; text-decoration: underline;">Se désabonner</a> • 
+          <a href="#" style="color: #444444; text-decoration: underline;">Préférences</a> • 
+          <a href="#" style="color: #444444; text-decoration: underline;">Confidentialité</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
